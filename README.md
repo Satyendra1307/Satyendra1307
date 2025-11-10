@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satyendra.
-- 👀 I’m interested in ... python programming. 
+- 👀 I’m interested in ... MERN Developer. 
 - 🌱 I’m currently learning ... online platforms. 
 - 💞️ I’m looking to collaborate on ... Project.
 - 📫 How to reach me ... from linkdin.
